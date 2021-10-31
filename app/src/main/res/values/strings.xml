@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">StackOverflow</string>
+    <string name="search_user">search by question or owner name</string>
+    <string name="label_posted_by">Posted By</string>
+    <string name="label_created_on">Created on:</string>
+    <string name="str_no_result_found">No Result Found:</string>
+    <string name="label_average_view_count">Average View Count</string>
+    <string name="label_average_answer_count">Average Answer Count</string>
+</resources>
